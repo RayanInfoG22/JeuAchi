@@ -1,6 +1,6 @@
-// cd Desktop\jeuachi 
+// cd Desktop/jeuachi 
 // gcc src/projet.c src/menu.c src/ai.c -o bin/prog -I include -L lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf
-// .\bin\prog
+// ./bin/prog
 #include <SDL.h>
 #include <SDL_ttf.h>
 #include <stdio.h>
